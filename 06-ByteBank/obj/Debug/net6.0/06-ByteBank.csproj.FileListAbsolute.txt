@@ -1,0 +1,15 @@
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\bin\Debug\net6.0\06-ByteBank.exe
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\bin\Debug\net6.0\06-ByteBank.deps.json
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\bin\Debug\net6.0\06-ByteBank.runtimeconfig.json
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\bin\Debug\net6.0\06-ByteBank.dll
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\bin\Debug\net6.0\06-ByteBank.pdb
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\06-ByteBank.csproj.AssemblyReference.cache
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\06-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\06-ByteBank.AssemblyInfoInputs.cache
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\06-ByteBank.AssemblyInfo.cs
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\06-ByteBank.dll
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\refint\06-ByteBank.dll
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\06-ByteBank.pdb
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\06-ByteBank.genruntimeconfig.cache
+C:\projetos\CSharp\CsharpParte2\06-ByteBank\obj\Debug\net6.0\ref\06-ByteBank.dll
